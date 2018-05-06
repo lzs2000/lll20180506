@@ -1,0 +1,22 @@
+{
+  "name": "PrivateLib",
+  "version": "0.1.0",
+  "summary": "A short description of PrivateLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lzs2000/PrivateLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lzs2000": "liululu@souche.com"
+  },
+  "source": {
+    "git": "https://github.com/lzs2000/PrivateLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PrivateLib/Classes/**/*"
+}
