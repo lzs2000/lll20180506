@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PrivateLib_Tests' do
+  pod 'PrivateLib', :path => '../'
+  
+  
+end
